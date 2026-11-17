@@ -1,0 +1,4 @@
+aiogram==3.13.1
+aiohttp==3.10.5
+openai==1.54.3
+duckduckgo-search==7.3.0
